@@ -2,14 +2,13 @@ import 'server-only'
 
 import {
   createAI,
-  createOpenAI,
   createStreamableUI,
   getMutableAIState,
   getAIState,
   streamUI,
   createStreamableValue
 } from 'ai/rsc'
-import { openai } from '@ai-sdk/openai'
+import { openai, createOpenAI } from '@ai-sdk/openai'
 
 import {
   spinner,
