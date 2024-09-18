@@ -504,6 +504,7 @@ export {
   IconEdit,
   IconNextChat,
   IconOpenAI,
+  IconLightning,
   IconVercel,
   IconGitHub,
   IconSeparator,
