@@ -2,6 +2,7 @@ import 'server-only'
 
 import {
   createAI,
+  createOpenAI,
   createStreamableUI,
   getMutableAIState,
   getAIState,
